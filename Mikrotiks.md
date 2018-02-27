@@ -6,7 +6,7 @@
 
 ![#](https://img.routerboard.com/mimg/1041_m.png)
 
-## 
+##  hEX
 | Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
 |:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
 | hEX | Es un enrutador Gigabit Ethernet de cinco puertos para ubicaciones donde no se requiere conectividad inalámbrica. El dispositivo tiene un puerto USB de tamaño completo. | MMIPS | 256 MB | 16 MB | $ 59.95 |
