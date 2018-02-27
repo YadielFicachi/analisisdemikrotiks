@@ -35,4 +35,28 @@
 
 ![#](https://img.routerboard.com/mimg/1220_m.png)
 
+##  RB2011iL-IN
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB2011iL-IN | Cuenta con cinco puertos Ethernet de Gigabit, cinco puertos Fast Ethernet, toma de corriente y compatibilidad con PoE. Está alimentado por el nuevo procesador de red Atheros 74K MIPS de próxima generación Atheros | MIPSBE | 64 MB | 128 MB | $ 99.00 |
 
+![#](https://img.routerboard.com/mimg/1107_m.png)
+
+##  RB2011iL-RM
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB2011iL-RM | Incluye una nueva característica - inyector de alimentación en el puerto Ethernet 10 - puede alimentar otros dispositivos con capacidad PoE con el mismo voltaje que se aplica a la unidad. Está alimentado por el nuevo procesador de red Atheros 600MHz 74K MIPS. | MIPSBE | 64 MB | 128 MB | $ 99.00 |
+
+![#](https://img.routerboard.com/mimg/1109_m.png)
+
+##  PowerBox Pro
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| PowerBox Pro | Admite entrada PoE pasiva y salida PoE pasiva u 802.3af / at. Los puertos Ethernet 2-5 pueden alimentar otros dispositivos con capacidad PoE con el mismo voltaje que se aplica a la unidad. | MIPSBE | 128 MB | 16 MB | $ 99.00 |
+
+![#](https://img.routerboard.com/mimg/1298_m.png)
+
+##  RB2011iLS-IN
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB2011iLS-IN | Admite entrada PoE pasiva y salida PoE pasiva u 802.3af / at. Los puertos Ethernet 2-5 pueden alimentar otros dispositivos con capacidad PoE con el mismo voltaje que se aplica a la unidad. | MIPSBE | 128 MB | 16 MB | $ 99.00 |
