@@ -62,3 +62,45 @@
 | RB2011iLS-IN | Tiene 11 puertos: Gigabit SFP jaula y cinco puertos Gigabit Ethernet que se pueden conmutar entre sí proporcionando un convertidor de fibra a cobre asequible a velocidad de cable, y cinco puertos Fast Ethernet adicionales. La placa puede ser alimentada por toma de corriente o PoE. | MIPSBE | 64 MB | 128 MB | $ 109.00 |
 
 ![#](https://img.routerboard.com/mimg/1106_m.png)
+
+##  RB2011UiAS-IN
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB2011UiAS-IN | Tiene cinco puertos Gigabit LAN y cinco puertos Fast Ethernet LAN, también un puerto serie RJ45, puerto USB y más RAM. Tiene licencia RouterOS L5 y una pantalla LCD táctil agradable para la configuración. La caja SFP también está presente. | MIPSBE | 128 MB | 128 MB | $ 119.00 |
+
+![#](https://img.routerboard.com/mimg/1108_m.png)
+
+##  RB2011UiAS-RM
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB2011UiAS-RM | Tiene un puerto serie RJ45, puerto USB. También tiene una función de salida PoE para el puerto n. ° 10: puede alimentar otros dispositivos con capacidad PoE con el mismo voltaje que se aplica a la unidad. La carga máxima en el puerto es de 500 mA | MIPSBE | 128 MB | 128 MB | $ 119.00 |
+
+![#](https://img.routerboard.com/mimg/1111_m.png)
+
+##  RB1100AHx4
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB1100AHx4 | 13x Gigabit Ethernet ports Router, con tecnología de Annapurna Alpine AL21400 CPU con cuatro núcleos Cortex A15, con velocidad de 1,4 GHz cada uno, para un rendimiento máximo de hasta 7,5 Gbit. El dispositivo es compatible con la aceleración de hardware IPsec (hasta 2.2 Gbps con AES128).  La unidad viene con una caja de montaje en rack de 1U, puerto serie RS232 y fuentes de alimentación redundantes duales. | ARM 32 bits | 1 GB | 128 MB | $ 299.00 |
+
+![#](https://img.routerboard.com/mimg/1344_m.png)
+
+##  RB1100AHx4 Dude Edition
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB1100AHx4 Dude Edition | Tiene una CPU Annapurna Alpine AL21400 con cuatro núcleos Cortex A15 a 1,4 GHz cada uno, para un rendimiento máximo de hasta 7,5 Gbps. El dispositivo es compatible con la aceleración de hardware de IPsec y es más rápido que cualquier dispositivo anterior con RouterBOARD. | ARM 32 bits | 1 GB | 128 MB | $ 349.00 |
+
+![#](https://img.routerboard.com/mimg/1300_m.png)
+
+##  CCR1009-7G-1C-1S + PC
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1009-7G-1C-1S + PC | Esta unidad está equipada con una caja de refrigeración pasiva, dos tubos de calor y un disipador de calor especialmente diseñado, por lo que es completamente silenciosa. Está alimentado por un adaptador externo de 24V 2.5A AC / DC y admite redundancia de alimentación si también lo alimenta desde el puerto de entrada PoE. | AZULEJO | 2 GB | 128 MB | $ 495.00 |
+
+![#](https://img.routerboard.com/mimg/1410_m.png)
+
+##  CCR1016-12G
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1016-12G | Enrutamiento dinámico, punto de acceso, cortafuegos, MPLS, VPN, calidad de servicio avanzada, equilibrio de carga y enlaces, configuración y supervisión en tiempo real: solo algunas de las numerosas funciones compatibles con RouterOS. El dispositivo está disponible con una carcasa de montaje en rack de 1U, tiene doce puertos de Ethernet Gigabit, un cable de consola serie y un puerto USB. El CCR1016-12G tiene dos ranuras SODIMM, por defecto se envía con 2 GB de RAM, pero no tiene límite de memoria en RouterOS. | AZULEJO | 2 GB | 512 MB | $ 645.00 |
+
+![#](https://img.routerboard.com/mimg/1306_m.png)
