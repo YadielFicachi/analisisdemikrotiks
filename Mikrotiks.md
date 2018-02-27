@@ -1,5 +1,6 @@
 # Análisis de routers Mikrotiks
 
+## hEX Lite
 | Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
 |:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
 | RB750r2 (hEX lite) | Es un pequeño enrutador ethernet de cinco puertos en una carcasa de plástico. | MIPSBE | 64 MB | 16 MB | $ 39.95 |
