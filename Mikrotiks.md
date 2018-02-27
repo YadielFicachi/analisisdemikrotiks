@@ -59,4 +59,6 @@
 ##  RB2011iLS-IN
 | Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
 |:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
-| RB2011iLS-IN | Admite entrada PoE pasiva y salida PoE pasiva u 802.3af / at. Los puertos Ethernet 2-5 pueden alimentar otros dispositivos con capacidad PoE con el mismo voltaje que se aplica a la unidad. | MIPSBE | 128 MB | 16 MB | $ 99.00 |
+| RB2011iLS-IN | Tiene 11 puertos: Gigabit SFP jaula y cinco puertos Gigabit Ethernet que se pueden conmutar entre sí proporcionando un convertidor de fibra a cobre asequible a velocidad de cable, y cinco puertos Fast Ethernet adicionales. La placa puede ser alimentada por toma de corriente o PoE. | MIPSBE | 64 MB | 128 MB | $ 109.00 |
+
+![#](https://img.routerboard.com/mimg/1106_m.png)
