@@ -145,5 +145,6 @@
 | Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
 |:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
 | CCR1072-1G-8S+ | Está alimentado por una CPU Tilera 72, cada núcleo tiene una velocidad de reloj de 1 GHz , está equipado con ocho puertos 10G SFP + conectados de manera independiente y un único puerto Ethernet para fines de gestión. La unidad viene equipada con RouterOS L6 instalado, 16GB de RAM ECC incorporada, pantalla LCD a color con pantalla táctil, dos fuentes de alimentación extraíbles (hotplug) para redundancia, ranura para tarjeta inteligente, microUSB, USB de tamaño regular, ranura microSD y 2x M.2 para almacenamiento adicional.  | AZULEJO | 16 GB | 128 MB | $ 3050.00 |
+
 ![#](https://img.routerboard.com/mimg/1057_m.png)
 ![#](https://img.routerboard.com/mimg/1056_m.png)
