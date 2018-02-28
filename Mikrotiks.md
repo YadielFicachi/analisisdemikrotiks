@@ -134,7 +134,16 @@
 
 ![#](https://img.routerboard.com/mimg/1307_m.png)
 
-##  CCR1036-12G-4S-EM
+##  CCR1036-8G-2S+EM
 | Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
 |:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
-| CCR1036-12G-4S-EM | Es un enrutador de grado portador con una CPU Tilera de 36 núcleos de vanguardia. Admite un rendimiento de hasta 24 millones de paquetes por segundo o hasta 16 gigabits. Tiene cuatro puertos SFP, doce puertos ethernet Gigabit, una consola serie y un puerto USB. Tiene dos ranuras SODIMM, por defecto se envía con 16 GB de RAM.  | AZULEJO | 16 GB | 1 GB | $ 1195.00 |
+| CCR1036-8G-2S+EM | Tiene dos puertos SFP + para compatibilidad con la interfaz 10G, ocho puertos de Ethernet Gigabit, un cable de consola serie y un puerto USB. Admite módulos SFP (1.25G) y SFP + (10G)  | AZULEJO | 16 GB | 1 GB | $ 1295.00 |
+
+![#](https://img.routerboard.com/mimg/807_m.png)
+
+##  CCR1072-1G-8S+
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1072-1G-8S+ | Está alimentado por una CPU Tilera 72, cada núcleo tiene una velocidad de reloj de 1 GHz , está equipado con ocho puertos 10G SFP + conectados de manera independiente y un único puerto Ethernet para fines de gestión. La unidad viene equipada con RouterOS L6 instalado, 16GB de RAM ECC incorporada, pantalla LCD a color con pantalla táctil, dos fuentes de alimentación extraíbles (hotplug) para redundancia, ranura para tarjeta inteligente, microUSB, USB de tamaño regular, ranura microSD y 2x M.2 para almacenamiento adicional.  | AZULEJO | 16 GB | 128 MB | $ 3050.00 |
+![#](https://img.routerboard.com/mimg/1057_m.png)
+![#](https://img.routerboard.com/mimg/1056_m.png)
