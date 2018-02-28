@@ -104,3 +104,37 @@
 | CCR1016-12G | Enrutamiento dinámico, punto de acceso, cortafuegos, MPLS, VPN, calidad de servicio avanzada, equilibrio de carga y enlaces, configuración y supervisión en tiempo real: solo algunas de las numerosas funciones compatibles con RouterOS. El dispositivo está disponible con una carcasa de montaje en rack de 1U, tiene doce puertos de Ethernet Gigabit, un cable de consola serie y un puerto USB. El CCR1016-12G tiene dos ranuras SODIMM, por defecto se envía con 2 GB de RAM, pero no tiene límite de memoria en RouterOS. | AZULEJO | 2 GB | 512 MB | $ 645.00 |
 
 ![#](https://img.routerboard.com/mimg/1306_m.png)
+
+##  CCR1016-12S-1S+
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1016-12S-1S+ | Es un enrutador de grado industrial con una CPU Tilera de 16 núcleos de vanguardia. Tiene doce puertos SFP y un puerto SFP + para conectividad 10G. Viene con fuentes de alimentación redundantes y un módulo de cobre RJ45 SFP 10/100 / 1000M | AZULEJO | 2 GB | 128 MB | $ 745.00 |
+
+![#](https://img.routerboard.com/mimg/918_m.png)
+
+##  CCR1036-12G-4S
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1036-12G-4S | Es un enrutador de grado portador con una CPU Tilera de 36 núcleos de vanguardia. El dispositivo viene en una caja de montaje en rack de 1U, tiene cuatro puertos SFP, doce puertos ethernet Gigabit, una consola serie y un puerto USB.  | AZULEJO | 4 GB | 1 GB | $ 995.00 |
+
+![#](https://img.routerboard.com/mimg/803_m.png)
+
+
+
+##  CCR1036-8G-2S+
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1036-8G-2S+ | Tiene dos puertos SFP + para compatibilidad con la interfaz 10G. Utiliza la CPU Tilera de 36 núcleos, son posibles diez enlaces gigabit.  El dispositivo viene en una caja de montaje en rack de 1U, tiene dos puertos SFP +, ocho puertos de Ethernet Gigabit, un cable de consola serie y un puerto USB. Tiene dos ranuras SODIMM, por defecto se envía con 4 GB de RAM. Admite módulos SFP (1.25G) y SFP + (10G).  | AZULEJO | 4 GB | 1 GB | $ 1095.00 |
+![#](https://img.routerboard.com/mimg/1305_m.png)
+
+##  CCR1036-12G-4S-EM
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1036-12G-4S-EM | Es un enrutador de grado portador con una CPU Tilera de 36 núcleos de vanguardia. Admite un rendimiento de hasta 24 millones de paquetes por segundo o hasta 16 gigabits. Tiene cuatro puertos SFP, doce puertos ethernet Gigabit, una consola serie y un puerto USB. Tiene dos ranuras SODIMM, por defecto se envía con 16 GB de RAM.  | AZULEJO | 16 GB | 1 GB | $ 1195.00 |
+
+![#](https://img.routerboard.com/mimg/1307_m.png)
+
+##  CCR1036-12G-4S-EM
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| CCR1036-12G-4S-EM | Es un enrutador de grado portador con una CPU Tilera de 36 núcleos de vanguardia. Admite un rendimiento de hasta 24 millones de paquetes por segundo o hasta 16 gigabits. Tiene cuatro puertos SFP, doce puertos ethernet Gigabit, una consola serie y un puerto USB. Tiene dos ranuras SODIMM, por defecto se envía con 16 GB de RAM.  | AZULEJO | 16 GB | 1 GB | $ 1195.00 |
